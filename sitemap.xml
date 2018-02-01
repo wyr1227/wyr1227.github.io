@@ -3,7 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wyr1227.github.io/post/hugo-build/</loc>
+    <lastmod>2018-02-01T16:26:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wyr1227.github.io/post/hugo-style/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wyr1227.github.io/</loc>
+    <lastmod>2018-02-01T16:26:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -13,7 +24,32 @@
   </url>
   
   <url>
+    <loc>https://wyr1227.github.io/tags/hugo/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wyr1227.github.io/tags/markdown/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wyr1227.github.io/post/</loc>
+    <lastmod>2018-02-01T16:26:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wyr1227.github.io/tags/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wyr1227.github.io/tags/theme/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
